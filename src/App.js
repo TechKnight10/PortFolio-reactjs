@@ -20,7 +20,7 @@ function App() {
         return (
           <div className="home">
             <h2>Welcome to my Portfolio</h2>
-            <p>I am Anuvrat Verma a CS enthusiast, Lets connect!</p>
+            <p>I am Kalmit Kulkarni, Please feel free to look through my PortFolio</p>
           </div>
         );
     }
